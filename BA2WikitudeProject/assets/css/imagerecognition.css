@@ -1,0 +1,26 @@
+div {
+	text-align: center;
+}
+
+#ScanOverlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	color:white;
+}
+
+#TargetImage1 {
+	width: 30%;
+	position: absolute;
+	top: 30%;
+	left: 15%;
+	opacity: 0.6;
+}
+
+#TargetImage2 {
+	width: 30%;
+	position: absolute;
+	top: 30%;
+	left: 55%;
+	opacity: 0.6;
+}

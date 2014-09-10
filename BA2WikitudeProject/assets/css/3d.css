@@ -1,0 +1,34 @@
+div {
+	text-align: center;
+}
+
+#btnScale {
+	position: absolute;
+	width: 20%;
+	height: 10%;
+	top: 5%;
+	left:0%;
+}
+
+#btnRotate {
+	position: absolute;
+	width: 20%;
+	height: 10%;
+	top: 5%;
+	left:80%;
+}
+
+#ScanOverlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	color:white;
+}
+
+#TargetImage {
+	width: 30%;
+	position: absolute;
+	top: 30%;
+	left: 35%;
+	opacity: 0.6;
+}
