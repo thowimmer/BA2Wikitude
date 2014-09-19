@@ -8,3 +8,5 @@ Proudly developed with the [Wikitude SDK](http://www.wikitude.com/ "Wikitude SDK
 ![alt tag](https://github.com/ThoWim/BA2Wikitude/blob/master/BA2WikitudeProject/assets/assets/Resources/wikitudelogo.jpg)
 
 © 2014 by [Thomas Wimmer](mailto://tom.wimmer@hotmail.com "Mail to Thomas Wimmer")
+
+**Hint**: Go to the Eclipse Preferences -> Android -> Build and uncheck "Force error when external jars contain native libraries" to run the application
